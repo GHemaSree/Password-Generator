@@ -14,5 +14,5 @@ A simple Python script to generate random passwords of a specified length.
 - Python 3.x
 
 ## Example Output
--Enter the length of the password: 5
--Generated Password: H!rhX
+- Enter the length of the password: 5
+- Generated Password: H!rhX
